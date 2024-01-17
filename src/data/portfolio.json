@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/projectOne/todo-list.png",
+      "title": "to-do List app",
+      "description": "A simple to do list application built using React.js and Redux.",
+      "url": "https://beautiful-dolphin-117308.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/projectOne/todo-list.png",
+      "title": "to-do List app",
+      "description": "A simple to do list application built using React.js and Redux.",
+      "url": "https://beautiful-dolphin-117308.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/projectOne/todo-list.png",
+      "title": "to-do List app",
+      "description": "A simple to do list application built using React.js and Redux.",
+      "url": "https://beautiful-dolphin-117308.netlify.app/"
+    }
+  ]
+}

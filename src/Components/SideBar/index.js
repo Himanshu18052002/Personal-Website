@@ -4,7 +4,12 @@ import { Link, NavLink } from 'react-router-dom'
 import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
+import {
+  faEnvelope,
+  faHome,
+  faUser,
+  faSuitcase,
+} from '@fortawesome/free-solid-svg-icons'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 
 function index() {
@@ -27,6 +32,7 @@ function index() {
           >
             <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
           </NavLink>
+
           <NavLink
             exact="true"
             activeclassname="active"
@@ -34,6 +40,15 @@ function index() {
             to={'/contact'}
           >
             <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
+          </NavLink>
+
+          <NavLink
+            exact="true"
+            activeclassname="active"
+            className="portfolio-link"
+            to={'/portfolio'}
+          >
+            <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
           </NavLink>
         </nav>
         <ul>
