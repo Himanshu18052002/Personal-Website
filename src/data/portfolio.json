@@ -7,16 +7,16 @@
       "url": "https://beautiful-dolphin-117308.netlify.app/"
     },
     {
-      "cover": "/portfolio/projectOne/todo-list.png",
-      "title": "to-do List app",
-      "description": "A simple to do list application built using React.js and Redux.",
-      "url": "https://beautiful-dolphin-117308.netlify.app/"
+      "cover": "/portfolio/projectTwo/threeJS.jpeg",
+      "title": "3D rendering template",
+      "description": "A 3D react-native app for rendering and diplaying the 3D models",
+      "url": "https://github.com/Himanshu18052002/3D-React-Native-Template"
     },
     {
-      "cover": "/portfolio/projectOne/todo-list.png",
-      "title": "to-do List app",
-      "description": "A simple to do list application built using React.js and Redux.",
-      "url": "https://beautiful-dolphin-117308.netlify.app/"
+      "cover": "/portfolio/projectThree/movE.png",
+      "title": "moveE app",
+      "description": "A movie app that utilizes actual API for displaying latest and trending movies",
+      "url": "https://github.com/Himanshu18052002/movE"
     }
   ]
 }
